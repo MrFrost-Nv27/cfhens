@@ -25,7 +25,7 @@ use CodeIgniter\Shield\Authentication\Passwords\DictionaryValidator;
 use CodeIgniter\Shield\Authentication\Passwords\NothingPersonalValidator;
 use CodeIgniter\Shield\Authentication\Passwords\PwnedValidator;
 use CodeIgniter\Shield\Authentication\Passwords\ValidatorInterface;
-use CodeIgniter\Shield\Models\UserModel;
+use App\Models\UserModel;
 
 class Auth extends ShieldAuth
 {
@@ -46,17 +46,17 @@ class Auth extends ShieldAuth
      * --------------------------------------------------------------------
      */
     public array $views = [
-        'login'                       => '\CodeIgniter\Shield\Views\login',
-        'register'                    => '\CodeIgniter\Shield\Views\register',
-        'layout'                      => '\CodeIgniter\Shield\Views\layout',
-        'action_email_2fa'            => '\CodeIgniter\Shield\Views\email_2fa_show',
-        'action_email_2fa_verify'     => '\CodeIgniter\Shield\Views\email_2fa_verify',
-        'action_email_2fa_email'      => '\CodeIgniter\Shield\Views\Email\email_2fa_email',
-        'action_email_activate_show'  => '\CodeIgniter\Shield\Views\email_activate_show',
-        'action_email_activate_email' => '\CodeIgniter\Shield\Views\Email\email_activate_email',
-        'magic-link-login'            => '\CodeIgniter\Shield\Views\magic_link_form',
-        'magic-link-message'          => '\CodeIgniter\Shield\Views\magic_link_message',
-        'magic-link-email'            => '\CodeIgniter\Shield\Views\Email\magic_link_email',
+        'login'                       => 'pages/auth/login',
+        'register'                    => 'pages/auth/register',
+        'layout'                      => 'layouts/auth/main',
+        'action_email_2fa'            => 'pages/auth/email_2fa_show',
+        'action_email_2fa_verify'     => 'pages/auth/email_2fa_verify',
+        'action_email_2fa_email'      => 'pages/auth/Email/email_2fa_email',
+        'action_email_activate_show'  => 'pages/auth/email_activate_show',
+        'action_email_activate_email' => 'pages/auth/Email/email_activate_email',
+        'magic-link-login'            => 'pages/auth/magic_link_form',
+        'magic-link-message'          => 'pages/auth/magic_link_message',
+        'magic-link-email'            => 'pages/auth/Email/magic_link_email',
     ];
 
     /**
@@ -117,7 +117,7 @@ class Auth extends ShieldAuth
         'tokens'  => AccessTokens::class,
         'session' => Session::class,
         'hmac'    => HmacSha256::class,
-        // 'jwt'     => JWT::class,
+        'jwt'     => JWT::class,
     ];
 
     /**
@@ -143,7 +143,7 @@ class Auth extends ShieldAuth
         'session',
         'tokens',
         'hmac',
-        // 'jwt',
+        'jwt',
     ];
 
     /**
