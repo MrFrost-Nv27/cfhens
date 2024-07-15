@@ -16,8 +16,6 @@
 </head>
 
 <body>
-    <?=$this->include('layouts/_preloader')?>
-    
     <div class="frame">
         <div class="nav-wrapper">
             <?=$this->include('layouts/panel/nav')?>

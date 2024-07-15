@@ -48,7 +48,7 @@ class Auth extends ShieldAuth
     public array $views = [
         'login'                       => 'pages/auth/login',
         'register'                    => 'pages/auth/register',
-        'layout'                      => 'layouts/auth/main',
+        'layout'                      => '\CodeIgniter\Shield\Views\layout',
         'action_email_2fa'            => 'pages/auth/email_2fa_show',
         'action_email_2fa_verify'     => 'pages/auth/email_2fa_verify',
         'action_email_2fa_email'      => 'pages/auth/Email/email_2fa_email',
@@ -152,7 +152,7 @@ class Auth extends ShieldAuth
      * --------------------------------------------------------------------
      * Determines whether users can register for the site.
      */
-    public bool $allowRegistration = true;
+    public bool $allowRegistration = false;
 
     /**
      * --------------------------------------------------------------------
@@ -176,7 +176,7 @@ class Auth extends ShieldAuth
      * could be modified as the only method of login once an account
      * has been set up.
      */
-    public bool $allowMagicLinkLogins = true;
+    public bool $allowMagicLinkLogins = false;
 
     /**
      * --------------------------------------------------------------------

@@ -1,0 +1,137 @@
+[
+    {
+        "id": "9c862a2f-be89-4bc1-8d5e-f4e699e154f3",
+        "code": "P01",
+        "name": "Berak Kapur (Pullorum Disease)"
+    },
+    {
+        "id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "code": "P02",
+        "name": "Kolera Ayam (Fowl Cholera)"
+    },
+    {
+        "id": "9c862a2f-bfb6-4f7d-83c0-c36a636de516",
+        "code": "P03",
+        "name": "Flu Burung (Avian Influenza)"
+    },
+    {
+        "id": "9c862a2f-bfba-4fec-8c3e-516ddc3e77c6",
+        "code": "P04",
+        "name": "Tetelo (Newcastle Disease)"
+    },
+    {
+        "id": "9c862a2f-bfbc-41ac-9a2a-0d942f79db86",
+        "code": "P05",
+        "name": "Tipus Ayam (Fowl Typhoid)"
+    },
+    {
+        "id": "9c862a2f-bfc4-4ac4-933a-0b3ef19d4f95",
+        "code": "P06",
+        "name": "Berak Darah (Coccidosis)"
+    },
+    {
+        "id": "9c862a2f-bfc7-4c5b-9029-9499d4b74f95",
+        "code": "P07",
+        "name": "Gumboro (Gumboro Disease)"
+    },
+    {
+        "id": "9c862a2f-bfc9-4a47-9346-57ccc57684bf",
+        "code": "P08",
+        "name": "Salesma Ayam (Infectious Coryza)"
+    },
+    {
+        "id": "9c862a2f-bfcb-4759-af91-c846f9742a72",
+        "code": "P09",
+        "name": "Batuk Ayam Menahun (Infectious Bronchitis)"
+    },
+    {
+        "id": "9c862a2f-bfce-444d-9b43-dade24ac255b",
+        "code": "P10",
+        "name": "Busung Ayam (Lymphoid Leukosis)"
+    },
+    {
+        "id": "9c862a2f-bfd0-4e1e-824d-bf0d9a44ad52",
+        "code": "P11",
+        "name": "Batuk Darah (Infectious Laryngotracheitis)"
+    },
+    {
+        "id": "9c862a2f-bfd2-42f9-8bb2-f05b1b956bdf",
+        "code": "P12",
+        "name": "Mareks (Mareks Disease)"
+    },
+    {
+        "id": "9c862a2f-bfd4-478b-9c18-a5aa5988dd00",
+        "code": "P13",
+        "name": "Produksi Telur (Egg Drop Syndrome 76)"
+    },
+    {
+        "id": "9c862a2f-bfd6-4698-8d5e-d0cd1f852dca",
+        "code": "P14",
+        "name": "Produksi Awal (Pullet Disease)"
+    },
+    {
+        "id": "9c862a2f-bfd9-4b29-a849-c0ba272f3d0a",
+        "code": "P15",
+        "name": "Kolibasilosis"
+    },
+    {
+        "id": "9c862a2f-bfdb-47e0-9bb2-285e8ebfae96",
+        "code": "P16",
+        "name": "Paratifoid"
+    },
+    {
+        "id": "9c862a2f-bfde-4ba9-9b6a-15875c6519dd",
+        "code": "P17",
+        "name": "Avian Encephalomyelitis"
+    },
+    {
+        "id": "9c862a2f-bfe0-40ff-be5e-abe4a568dec8",
+        "code": "P18",
+        "name": "Cacar Unggas (Fowl Pox)"
+    },
+    {
+        "id": "9c862a2f-bfe2-40f2-9a05-dbeb73dd599f",
+        "code": "P19",
+        "name": "Chicken Anemia Syndrome"
+    },
+    {
+        "id": "9c862a2f-bfe4-4f70-b676-228a9dc00480",
+        "code": "P20",
+        "name": "Helicopter Disease"
+    },
+    {
+        "id": "9c862a2f-bfe6-4397-abe3-29de702d914d",
+        "code": "P21",
+        "name": "Inclusion Body Hepatitis (IBH)"
+    },
+    {
+        "id": "9c862a2f-bfe8-4bbe-b51d-fe6bb99d5cd8",
+        "code": "P22",
+        "name": "Chronic Respiratory Disesase"
+    },
+    {
+        "id": "9c862a2f-bfeb-4251-ae8f-a47ad24f1a33",
+        "code": "P23",
+        "name": "Swolen Head Syndrome"
+    },
+    {
+        "id": "9c862a2f-bfed-4c68-a86a-691e046d89e0",
+        "code": "P24",
+        "name": "Viral Arthritis"
+    },
+    {
+        "id": "9c862a2f-bfef-457c-8fa2-f564d6dde141",
+        "code": "P25",
+        "name": "Aspergillosis"
+    },
+    {
+        "id": "9c862a2f-bff1-48d3-9038-fc8869ea4fae",
+        "code": "P26",
+        "name": "Candidiasis"
+    },
+    {
+        "id": "9c862a2f-bff4-4bf5-adb0-8f0a2dff42f7",
+        "code": "P27",
+        "name": "Ascariasis"
+    }
+]
