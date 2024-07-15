@@ -10,7 +10,7 @@
         <div class="row">
             <div class="col s12 m6 l3">
                 <div class="count-card">
-                    <div class="count-number" data-entity="service">0</div>
+                    <div class="count-number" data-entity="disease">0</div>
                     <div class="count-desc">
                         <p><b>Jumlah</b></p>
                         <p>Data Penyakit</p>
@@ -19,7 +19,7 @@
             </div>
             <div class="col s12 m6 l3">
                 <div class="count-card">
-                    <div class="count-number" data-entity="customer">0</div>
+                    <div class="count-number" data-entity="symptom">0</div>
                     <div class="count-desc">
                         <p><b>Jumlah</b></p>
                         <p>Data Gejala</p>
@@ -28,7 +28,7 @@
             </div>
             <div class="col s12 m6 l3">
                 <div class="count-card">
-                    <div class="count-number" data-entity="customer">0</div>
+                    <div class="count-number" data-entity="rule">0</div>
                     <div class="count-desc">
                         <p><b>Jumlah</b></p>
                         <p>Data Rule</p>

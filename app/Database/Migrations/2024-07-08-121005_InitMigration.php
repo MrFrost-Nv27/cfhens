@@ -39,12 +39,14 @@ class InitMigration extends Migration
 
         Eloquent::schema()->create("rules", function (Blueprint $table) {
             $table->uuid("id")->primary();
+            $table->string('code')->nullable();
             $table->foreignUuid('symptom_id')
+                ->nullable()
                 ->constrained("symptoms")
                 ->onUpdate('cascade')
                 ->onDelete('cascade');
-            $table->uuid('effect_id');
-            $table->enum("effect_type", ["disease", "symptom"]);
+            $table->uuid('effect_id')->nullable();
+            $table->enum("effect_type", ["disease", "symptom"])->nullable();
             $table->timestamps();
         });
     }

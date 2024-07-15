@@ -35,6 +35,7 @@ class InitSeeder extends Seeder
         }
         foreach (array_chunk(json_decode(file_get_contents($path . 'rules.json'), true), 1000) as $t) {
             RuleModel::upsert($t, ['id'], [
+                'code',
                 'symptom_id',
                 'effect_id',
                 "effect_type",

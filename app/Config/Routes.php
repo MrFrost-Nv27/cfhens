@@ -1,5 +1,8 @@
 <?php
 
+use App\Controllers\Api\DiseaseController;
+use App\Controllers\Api\RuleController;
+use App\Controllers\Api\SymptomController;
 use App\Controllers\Frontend\Manage;
 use App\Controllers\Migrate;
 use CodeIgniter\Router\RouteCollection;
@@ -19,10 +22,16 @@ $routes->environment('development', static function ($routes) {
 
 $routes->group('kelola', static function (RouteCollection $routes) {
     $routes->get('', [Manage::class, 'index']);
+    $routes->get('disease', [Manage::class, 'disease']);
+    $routes->get('symptom', [Manage::class, 'symptom']);
+    $routes->get('rule', [Manage::class, 'rule']);
+    $routes->get('implementasi', [Manage::class, 'implementasi']);
 });
 
 $routes->group('api', ['namespace' => 'App\Controllers\Api'], static function ($routes) {
     $routes->group('v2', ['namespace' => 'App\Controllers\Api'], static function ($routes) {
     });
-    // $routes->resource('customer', ['namespace' => '', 'controller' => CustomerController::class, 'websafe' => 1]);
+    $routes->resource('disease', ['namespace' => '', 'controller' => DiseaseController::class, 'websafe' => 1]);
+    $routes->resource('symptom', ['namespace' => '', 'controller' => SymptomController::class, 'websafe' => 1]);
+    $routes->resource('rule', ['namespace' => '', 'controller' => RuleController::class, 'websafe' => 1]);
 });
