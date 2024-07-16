@@ -1,47 +1,35 @@
-const elCustomer = $("[data-entity=customer]");
-const elService = $("[data-entity=service]");
-const elUser = $("[data-entity=user]");
-const elRepair = $("[data-entity=repair]");
+const elDisease = $("[data-entity=disease]");
+const elSymptom = $("[data-entity=symptom]");
+const elRule = $("[data-entity=rule]");
 $(document).ready(function () {
   cloud
-    .add(origin + "/api/service", {
-      name: "service",
+    .add(origin + "/api/disease", {
+      name: "disease",
       callback: (data) => {
-        elService.text(service.length).counterUp();
+        elDisease.text(service.length).counterUp();
       },
     })
     .then((service) => {
-      elService.text(service.length).counterUp();
+      elDisease.text(service.length).counterUp();
     });
   cloud
-    .add(origin + "/api/customer", {
-      name: "customer",
+    .add(origin + "/api/symptom", {
+      name: "symptom",
       callback: (data) => {
-        elCustomer.text(customer.length).counterUp();
+        elSymptom.text(customer.length).counterUp();
       },
     })
     .then((customer) => {
-      elCustomer.text(customer.length).counterUp();
+      elSymptom.text(customer.length).counterUp();
     });
   cloud
-    .add(origin + "/api/user", {
-      name: "user",
+    .add(origin + "/api/rule", {
+      name: "symptom",
       callback: (data) => {
-        elUser.text(user.length).counterUp();
+        elRule.text(customer.length).counterUp();
       },
     })
-    .then((user) => {
-      elUser.text(user.length).counterUp();
+    .then((customer) => {
+      elRule.text(customer.length).counterUp();
     });
-  cloud
-    .add(origin + "/api/repair", {
-      name: "repair",
-      callback: (data) => {
-        elRepair.text(repair.length).counterUp();
-      },
-    })
-    .then((repair) => {
-      elRepair.text(repair.length).counterUp();
-    });
-  $(".preloader").slideUp();
 });

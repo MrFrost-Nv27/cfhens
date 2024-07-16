@@ -1,0 +1,1739 @@
+[
+    {
+        "id": "9c863f67-ec1b-43cd-b1f1-a8cb575555c7",
+        "code": "R01",
+        "symptom_id": "9c862ad5-d95c-4012-bb38-88857e9d61e7",
+        "effect_id": "9c862ad5-d8db-45a9-93a4-ef54770cfa55",
+        "effect_type": "symptom",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ed81-4402-b66d-ed5f5b026e77",
+        "code": "R02",
+        "symptom_id": "9c862ad5-d961-453f-9d1e-4f9d4b70d49d",
+        "effect_id": "9c862ad5-d8d7-4de1-98dd-9bd374bdafc9",
+        "effect_type": "symptom",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-edaf-40bc-8167-e49bad13b02b",
+        "code": "R03",
+        "symptom_id": "9c862ad5-d966-494c-b715-799b7530127a",
+        "effect_id": "9c862ad5-d930-4bb8-bb74-af6d46448976",
+        "effect_type": "symptom",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-eddc-4970-8a10-a3fcd3157019",
+        "code": "R04",
+        "symptom_id": "9c862ad5-d969-4117-83d2-5f9d6ef8810e",
+        "effect_id": "9c862ad5-d932-4f89-a283-ebc678a16d77",
+        "effect_type": "symptom",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ee07-4d23-8f79-bfda4b0efbc8",
+        "code": "R05",
+        "symptom_id": "9c862ad5-d96c-4f41-9e3c-d1bc73397d18",
+        "effect_id": "9c862ad5-d949-4333-b0a0-4c074499b9d5",
+        "effect_type": "symptom",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ee33-4f50-9397-5abb200b551a",
+        "code": "R06",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-be89-4bc1-8d5e-f4e699e154f3",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ee55-4049-a4ab-08f69e004228",
+        "code": "R06",
+        "symptom_id": "9c862ad5-d8be-4fc5-a3dd-4883468e6b49",
+        "effect_id": "9c862a2f-be89-4bc1-8d5e-f4e699e154f3",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ee75-4faa-a7a5-b82e0b4b830f",
+        "code": "R06",
+        "symptom_id": "9c862ad5-d8c6-4f30-91de-701163da5c0a",
+        "effect_id": "9c862a2f-be89-4bc1-8d5e-f4e699e154f3",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ee95-442d-bea8-bbced9633a7a",
+        "code": "R06",
+        "symptom_id": "9c862ad5-d8cd-4f14-b496-7543b570a7ca",
+        "effect_id": "9c862a2f-be89-4bc1-8d5e-f4e699e154f3",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-eeb8-40d0-94b2-edf62ee26686",
+        "code": "R06",
+        "symptom_id": "9c862ad5-d8d0-4f9b-9260-04c27ad6f948",
+        "effect_id": "9c862a2f-be89-4bc1-8d5e-f4e699e154f3",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-eed9-46d5-89b1-ee0da4d21d2a",
+        "code": "R06",
+        "symptom_id": "9c862ad5-d8d2-459d-909a-b492428136bb",
+        "effect_id": "9c862a2f-be89-4bc1-8d5e-f4e699e154f3",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-eef9-4202-b9f4-741864c7d67e",
+        "code": "R06",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-be89-4bc1-8d5e-f4e699e154f3",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ef19-4a68-ab10-4cc9271c08c7",
+        "code": "R06",
+        "symptom_id": "9c862ad5-d8db-45a9-93a4-ef54770cfa55",
+        "effect_id": "9c862a2f-be89-4bc1-8d5e-f4e699e154f3",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ef39-41a7-b1a2-8bfe58fc5c90",
+        "code": "R06",
+        "symptom_id": "9c862ad5-d8e2-48fa-8872-8a5113bdee09",
+        "effect_id": "9c862a2f-be89-4bc1-8d5e-f4e699e154f3",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ef59-45f8-8197-42f850adb04d",
+        "code": "R06",
+        "symptom_id": "9c862ad5-d902-4565-ae8d-15f777decd28",
+        "effect_id": "9c862a2f-be89-4bc1-8d5e-f4e699e154f3",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ef88-4624-8d69-35eebf469bbd",
+        "code": "R06",
+        "symptom_id": "9c862ad5-d91e-459d-a089-271d50b3e2ea",
+        "effect_id": "9c862a2f-be89-4bc1-8d5e-f4e699e154f3",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-efb3-466e-ab4a-532dc428609a",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-efd7-44f6-aafe-5a81688303be",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d8be-4fc5-a3dd-4883468e6b49",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-eff8-4f65-9e44-6473ddd2cae9",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d8c3-4b4e-8371-6deda1572a4c",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f01f-43fc-9569-c812c1ff2063",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d8c8-4944-8e5c-5eff372733e9",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f047-44a9-93d2-287509d040be",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d8ca-45ea-80af-73e7271f0cff",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f068-4bdc-ae56-dc85c660bc5d",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d8d0-4f9b-9260-04c27ad6f948",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f089-402f-9e79-324b3649cc4f",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d8d2-459d-909a-b492428136bb",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f0ab-44b7-b5aa-53d71d29da60",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f0cb-45f7-8bd1-bfce09d72546",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d8d9-4616-a0a0-02cc472bcfe5",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f0eb-4a0e-a958-91af41761bed",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d8de-4af9-9d21-516895de4303",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f164-4c3e-81ae-e4df8a48209f",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d8e0-4b92-9b58-b721d83208c6",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f19a-4170-812c-593d5f2709a9",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d8e6-43c3-ab3f-ff2700af23bb",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f1c7-44ce-ac28-ce955d04dc6a",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d8fc-477d-a04c-d74ddbdaa596",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f1ed-45ad-88f6-5db891d233b7",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d905-4b6e-ac78-27c058194920",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f20e-468c-886b-123fb4f0810f",
+        "code": "R07",
+        "symptom_id": "9c862ad5-d90e-495a-a72a-8520af189f4d",
+        "effect_id": "9c862a2f-bfb1-4dd7-b6f5-507bde36bbe9",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f231-4784-8c65-679b7e388d51",
+        "code": "R08",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfb6-4f7d-83c0-c36a636de516",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f252-4cbb-95ec-87c15b6aa7ef",
+        "code": "R08",
+        "symptom_id": "9c862ad5-d8be-4fc5-a3dd-4883468e6b49",
+        "effect_id": "9c862a2f-bfb6-4f7d-83c0-c36a636de516",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f271-4682-aaeb-ee5336874b7c",
+        "code": "R08",
+        "symptom_id": "9c862ad5-d8c3-4b4e-8371-6deda1572a4c",
+        "effect_id": "9c862a2f-bfb6-4f7d-83c0-c36a636de516",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f292-44a2-a318-1aee393804f9",
+        "code": "R08",
+        "symptom_id": "9c862ad5-d8c8-4944-8e5c-5eff372733e9",
+        "effect_id": "9c862a2f-bfb6-4f7d-83c0-c36a636de516",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f2b3-45cd-b307-29694624de0b",
+        "code": "R08",
+        "symptom_id": "9c862ad5-d8ca-45ea-80af-73e7271f0cff",
+        "effect_id": "9c862a2f-bfb6-4f7d-83c0-c36a636de516",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f2d3-48c1-904c-b31b8318177f",
+        "code": "R08",
+        "symptom_id": "9c862ad5-d8d2-459d-909a-b492428136bb",
+        "effect_id": "9c862a2f-bfb6-4f7d-83c0-c36a636de516",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f2f3-4541-b9ef-d25e9c509684",
+        "code": "R08",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bfb6-4f7d-83c0-c36a636de516",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f313-4452-ba1c-8e4422640932",
+        "code": "R08",
+        "symptom_id": "9c862ad5-d8ea-42e0-b185-10f062a844b9",
+        "effect_id": "9c862a2f-bfb6-4f7d-83c0-c36a636de516",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f333-41a8-9ea3-5f8ab4cef1e7",
+        "code": "R08",
+        "symptom_id": "9c862ad5-d90c-4a8c-a067-9e417556f6a8",
+        "effect_id": "9c862a2f-bfb6-4f7d-83c0-c36a636de516",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f353-4be7-9a30-d62ea31520a6",
+        "code": "R08",
+        "symptom_id": "9c862ad5-d912-43e5-8a97-5ae05f14543c",
+        "effect_id": "9c862a2f-bfb6-4f7d-83c0-c36a636de516",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f374-4acc-bf76-2808a01ca944",
+        "code": "R08",
+        "symptom_id": "9c862ad5-d926-4f5e-ad0c-fe0c176368f4",
+        "effect_id": "9c862a2f-bfb6-4f7d-83c0-c36a636de516",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f395-4674-8ee5-e6ad1aca90eb",
+        "code": "R09",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfba-4fec-8c3e-516ddc3e77c6",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f3b5-4692-bac5-8227024cb117",
+        "code": "R09",
+        "symptom_id": "9c862ad5-d8be-4fc5-a3dd-4883468e6b49",
+        "effect_id": "9c862a2f-bfba-4fec-8c3e-516ddc3e77c6",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f3d5-43b3-9e76-07e1633d74f6",
+        "code": "R09",
+        "symptom_id": "9c862ad5-d8c3-4b4e-8371-6deda1572a4c",
+        "effect_id": "9c862a2f-bfba-4fec-8c3e-516ddc3e77c6",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f3f5-4109-b5a6-8e646ed482b9",
+        "code": "R09",
+        "symptom_id": "9c862ad5-d8ca-45ea-80af-73e7271f0cff",
+        "effect_id": "9c862a2f-bfba-4fec-8c3e-516ddc3e77c6",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f415-4243-a369-2f2ffb3a0044",
+        "code": "R09",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bfba-4fec-8c3e-516ddc3e77c6",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f435-4f1b-8d38-ea8e7c797f79",
+        "code": "R09",
+        "symptom_id": "9c862ad5-d8de-4af9-9d21-516895de4303",
+        "effect_id": "9c862a2f-bfba-4fec-8c3e-516ddc3e77c6",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f456-43e2-a835-5ffcf5dd6da7",
+        "code": "R09",
+        "symptom_id": "9c862ad5-d8e0-4b92-9b58-b721d83208c6",
+        "effect_id": "9c862a2f-bfba-4fec-8c3e-516ddc3e77c6",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f476-4b24-8696-cdf13b113e29",
+        "code": "R09",
+        "symptom_id": "9c862ad5-d8f9-4b79-8a61-1ebd3414f65c",
+        "effect_id": "9c862a2f-bfba-4fec-8c3e-516ddc3e77c6",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f497-4738-9135-fdf6c619f736",
+        "code": "R09",
+        "symptom_id": "9c862ad5-d914-4178-a69d-6478f2a1fbd8",
+        "effect_id": "9c862a2f-bfba-4fec-8c3e-516ddc3e77c6",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f4b7-485e-9cd1-a2426b7106d5",
+        "code": "R10",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfbc-41ac-9a2a-0d942f79db86",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f4d7-45f5-b46f-91c4594c2cf7",
+        "code": "R10",
+        "symptom_id": "9c862ad5-d8cd-4f14-b496-7543b570a7ca",
+        "effect_id": "9c862a2f-bfbc-41ac-9a2a-0d942f79db86",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f4f7-43c5-80b8-d19ec1ccca36",
+        "code": "R10",
+        "symptom_id": "9c862ad5-d8d0-4f9b-9260-04c27ad6f948",
+        "effect_id": "9c862a2f-bfbc-41ac-9a2a-0d942f79db86",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f517-4f5d-90e6-3866cf6f0b19",
+        "code": "R10",
+        "symptom_id": "9c862ad5-d8d2-459d-909a-b492428136bb",
+        "effect_id": "9c862a2f-bfbc-41ac-9a2a-0d942f79db86",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f537-4965-a3cb-0ee6a23c52c0",
+        "code": "R10",
+        "symptom_id": "9c862ad5-d8d9-4616-a0a0-02cc472bcfe5",
+        "effect_id": "9c862a2f-bfbc-41ac-9a2a-0d942f79db86",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f557-45fb-bdc3-2c7aa1ac0804",
+        "code": "R10",
+        "symptom_id": "9c862ad5-d8de-4af9-9d21-516895de4303",
+        "effect_id": "9c862a2f-bfbc-41ac-9a2a-0d942f79db86",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f587-40b5-a0cc-18066c480eec",
+        "code": "R10",
+        "symptom_id": "9c862ad5-d8e0-4b92-9b58-b721d83208c6",
+        "effect_id": "9c862a2f-bfbc-41ac-9a2a-0d942f79db86",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f5ad-4e4c-aaf2-61c897574183",
+        "code": "R10",
+        "symptom_id": "9c862ad5-d8ff-4964-a07f-2ad2432abf77",
+        "effect_id": "9c862a2f-bfbc-41ac-9a2a-0d942f79db86",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f5d1-4936-81fc-ab2952a1a107",
+        "code": "R11",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfc4-4ac4-933a-0b3ef19d4f95",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f5f3-4830-8037-de1af0f8f693",
+        "code": "R11",
+        "symptom_id": "9c862ad5-d8cd-4f14-b496-7543b570a7ca",
+        "effect_id": "9c862a2f-bfc4-4ac4-933a-0b3ef19d4f95",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f615-4a8d-9bc1-19bd19f8081e",
+        "code": "R11",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bfc4-4ac4-933a-0b3ef19d4f95",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f638-46d8-a2f5-74eca21305c7",
+        "code": "R11",
+        "symptom_id": "9c862ad5-d8e4-4be5-8368-a64cc418cdaf",
+        "effect_id": "9c862a2f-bfc4-4ac4-933a-0b3ef19d4f95",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f662-4680-9e7a-ca08418063ed",
+        "code": "R11",
+        "symptom_id": "9c862ad5-d8e8-4d82-a3e3-08875cee6287",
+        "effect_id": "9c862a2f-bfc4-4ac4-933a-0b3ef19d4f95",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f688-4e66-9132-6b2a83349f6f",
+        "code": "R12",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfc7-4c5b-9029-9499d4b74f95",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f6a9-4642-8bbf-93b1c048a592",
+        "code": "R12",
+        "symptom_id": "9c862ad5-d8d0-4f9b-9260-04c27ad6f948",
+        "effect_id": "9c862a2f-bfc7-4c5b-9029-9499d4b74f95",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f6cb-4856-8602-84ba7d0b65b9",
+        "code": "R12",
+        "symptom_id": "9c862ad5-d8de-4af9-9d21-516895de4303",
+        "effect_id": "9c862a2f-bfc7-4c5b-9029-9499d4b74f95",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f6ec-482b-a5ac-d771b90d0091",
+        "code": "R12",
+        "symptom_id": "9c862ad5-d8e2-48fa-8872-8a5113bdee09",
+        "effect_id": "9c862a2f-bfc7-4c5b-9029-9499d4b74f95",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f70d-461f-8dc1-3af32c6a297e",
+        "code": "R13",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfc9-4a47-9346-57ccc57684bf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f72d-4c42-86a0-1cb7e082968e",
+        "code": "R13",
+        "symptom_id": "9c862ad5-d8c8-4944-8e5c-5eff372733e9",
+        "effect_id": "9c862a2f-bfc9-4a47-9346-57ccc57684bf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f74e-4921-913f-7a1838c3cee0",
+        "code": "R13",
+        "symptom_id": "9c862ad5-d8d2-459d-909a-b492428136bb",
+        "effect_id": "9c862a2f-bfc9-4a47-9346-57ccc57684bf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f76e-4641-9fda-3565a1d9acc5",
+        "code": "R13",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bfc9-4a47-9346-57ccc57684bf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f80b-4175-9c32-13e4951a44b6",
+        "code": "R13",
+        "symptom_id": "9c862ad5-d909-46cc-a965-5af778c33ecc",
+        "effect_id": "9c862a2f-bfc9-4a47-9346-57ccc57684bf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f841-4fae-8d29-733ce219afec",
+        "code": "R13",
+        "symptom_id": "9c862ad5-d910-4327-9b09-1df39b413bc1",
+        "effect_id": "9c862a2f-bfc9-4a47-9346-57ccc57684bf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f868-41ff-a160-9d47a57e218e",
+        "code": "R13",
+        "symptom_id": "9c862ad5-d918-4f4c-ad0f-76eb199817ef",
+        "effect_id": "9c862a2f-bfc9-4a47-9346-57ccc57684bf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f88b-4b33-9302-88fdf3799dd5",
+        "code": "R13",
+        "symptom_id": "9c862ad5-d922-415c-a2f9-34154dfc546a",
+        "effect_id": "9c862a2f-bfc9-4a47-9346-57ccc57684bf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f8ad-4a16-8337-9d92a7530bac",
+        "code": "R13",
+        "symptom_id": "9c862ad5-d924-47d9-ac9c-e52c89807a9a",
+        "effect_id": "9c862a2f-bfc9-4a47-9346-57ccc57684bf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f8cf-4103-9b4f-ab5360f4592d",
+        "code": "R14",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfcb-4759-af91-c846f9742a72",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f8ef-4a75-b384-f1fc368f2bf8",
+        "code": "R14",
+        "symptom_id": "9c862ad5-d8c3-4b4e-8371-6deda1572a4c",
+        "effect_id": "9c862a2f-bfcb-4759-af91-c846f9742a72",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f910-442f-a726-5c8287581e96",
+        "code": "R14",
+        "symptom_id": "9c862ad5-d8c8-4944-8e5c-5eff372733e9",
+        "effect_id": "9c862a2f-bfcb-4759-af91-c846f9742a72",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f930-43de-8829-e5a465e465a1",
+        "code": "R14",
+        "symptom_id": "9c862ad5-d8ca-45ea-80af-73e7271f0cff",
+        "effect_id": "9c862a2f-bfcb-4759-af91-c846f9742a72",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f951-4b40-92d3-be5890b090a6",
+        "code": "R14",
+        "symptom_id": "9c862ad5-d8d2-459d-909a-b492428136bb",
+        "effect_id": "9c862a2f-bfcb-4759-af91-c846f9742a72",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f971-4b4d-b445-c8525b83ae65",
+        "code": "R14",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bfcb-4759-af91-c846f9742a72",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f991-4c21-9084-3326a0b6d0ad",
+        "code": "R14",
+        "symptom_id": "9c862ad5-d8d9-4616-a0a0-02cc472bcfe5",
+        "effect_id": "9c862a2f-bfcb-4759-af91-c846f9742a72",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f9b2-4974-81e4-a2c3d52000f1",
+        "code": "R14",
+        "symptom_id": "9c862ad5-d8db-45a9-93a4-ef54770cfa55",
+        "effect_id": "9c862a2f-bfcb-4759-af91-c846f9742a72",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f9d1-41aa-82ea-135210a686db",
+        "code": "R14",
+        "symptom_id": "9c862ad5-d8de-4af9-9d21-516895de4303",
+        "effect_id": "9c862a2f-bfcb-4759-af91-c846f9742a72",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-f9f3-49de-8034-1ec67fe952d9",
+        "code": "R14",
+        "symptom_id": "9c862ad5-d8ea-42e0-b185-10f062a844b9",
+        "effect_id": "9c862a2f-bfcb-4759-af91-c846f9742a72",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fa13-4f65-81dd-5b309c1cd971",
+        "code": "R15",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfce-444d-9b43-dade24ac255b",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fa33-4c91-b788-43adacd6563b",
+        "code": "R15",
+        "symptom_id": "9c862ad5-d8be-4fc5-a3dd-4883468e6b49",
+        "effect_id": "9c862a2f-bfce-444d-9b43-dade24ac255b",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fa58-4894-9e7a-0fc514cbfae4",
+        "code": "R15",
+        "symptom_id": "9c862ad5-d8cd-4f14-b496-7543b570a7ca",
+        "effect_id": "9c862a2f-bfce-444d-9b43-dade24ac255b",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fa78-4578-a535-4c303de8b147",
+        "code": "R15",
+        "symptom_id": "9c862ad5-d8d0-4f9b-9260-04c27ad6f948",
+        "effect_id": "9c862a2f-bfce-444d-9b43-dade24ac255b",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fa98-4abe-96fc-fd35983231a1",
+        "code": "R15",
+        "symptom_id": "9c862ad5-d8ff-4964-a07f-2ad2432abf77",
+        "effect_id": "9c862a2f-bfce-444d-9b43-dade24ac255b",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fab9-4177-80b1-6a4bff8d31b6",
+        "code": "R15",
+        "symptom_id": "9c862ad5-d91a-4144-935f-7a4d92f5beed",
+        "effect_id": "9c862a2f-bfce-444d-9b43-dade24ac255b",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fada-462c-a0a2-23ae8cef0a0d",
+        "code": "R16",
+        "symptom_id": "9c862ad5-d8be-4fc5-a3dd-4883468e6b49",
+        "effect_id": "9c862a2f-bfd0-4e1e-824d-bf0d9a44ad52",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-faf9-484b-8117-4d51dc0194eb",
+        "code": "R16",
+        "symptom_id": "9c862ad5-d8c3-4b4e-8371-6deda1572a4c",
+        "effect_id": "9c862a2f-bfd0-4e1e-824d-bf0d9a44ad52",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fb19-46ac-a4d1-984a291c6311",
+        "code": "R16",
+        "symptom_id": "9c862ad5-d8c8-4944-8e5c-5eff372733e9",
+        "effect_id": "9c862a2f-bfd0-4e1e-824d-bf0d9a44ad52",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fb39-463c-8383-ce272af0077a",
+        "code": "R16",
+        "symptom_id": "9c862ad5-d8ca-45ea-80af-73e7271f0cff",
+        "effect_id": "9c862a2f-bfd0-4e1e-824d-bf0d9a44ad52",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fb5a-4dc3-bc08-436a95043fb0",
+        "code": "R16",
+        "symptom_id": "9c862ad5-d916-40ed-aad7-585b09c9ebfa",
+        "effect_id": "9c862a2f-bfd0-4e1e-824d-bf0d9a44ad52",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fb8c-4e7a-953e-0166240ccc73",
+        "code": "R16",
+        "symptom_id": "9c862ad5-d920-46bb-a031-faa6ee0c5703",
+        "effect_id": "9c862a2f-bfd0-4e1e-824d-bf0d9a44ad52",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fbaf-48a5-ba72-1a17529bf33e",
+        "code": "R17",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfd2-42f9-8bb2-f05b1b956bdf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fbcf-42fe-b408-47f5ae44cd1f",
+        "code": "R17",
+        "symptom_id": "9c862ad5-d8c6-4f30-91de-701163da5c0a",
+        "effect_id": "9c862a2f-bfd2-42f9-8bb2-f05b1b956bdf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fbee-4b14-9824-345ae3465c7a",
+        "code": "R17",
+        "symptom_id": "9c862ad5-d8e8-4d82-a3e3-08875cee6287",
+        "effect_id": "9c862a2f-bfd2-42f9-8bb2-f05b1b956bdf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fc0e-4d7c-81a4-25656d32291b",
+        "code": "R17",
+        "symptom_id": "9c862ad5-d8f9-4b79-8a61-1ebd3414f65c",
+        "effect_id": "9c862a2f-bfd2-42f9-8bb2-f05b1b956bdf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fc2d-47f3-8716-a2db09d5ce0f",
+        "code": "R17",
+        "symptom_id": "9c862ad5-d907-4f44-b891-9c9ef3dd6a95",
+        "effect_id": "9c862a2f-bfd2-42f9-8bb2-f05b1b956bdf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fc4d-4bf7-b444-6e6754e834e1",
+        "code": "R17",
+        "symptom_id": "9c862ad5-d91c-4508-aa6b-45e0d2bb2ca0",
+        "effect_id": "9c862a2f-bfd2-42f9-8bb2-f05b1b956bdf",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fc6d-44dc-88f3-55cf5088cd80",
+        "code": "R18",
+        "symptom_id": "9c862ad5-d8c6-4f30-91de-701163da5c0a",
+        "effect_id": "9c862a2f-bfd4-478b-9c18-a5aa5988dd00",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fc8d-4a1b-832f-30d858f16fd4",
+        "code": "R18",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bfd4-478b-9c18-a5aa5988dd00",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fcad-4920-b196-f0b9d203ad53",
+        "code": "R18",
+        "symptom_id": "9c862ad5-d8d7-4de1-98dd-9bd374bdafc9",
+        "effect_id": "9c862a2f-bfd4-478b-9c18-a5aa5988dd00",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fccc-4c55-bd9a-7d43c54f3e69",
+        "code": "R18",
+        "symptom_id": "9c862ad5-d8e0-4b92-9b58-b721d83208c6",
+        "effect_id": "9c862a2f-bfd4-478b-9c18-a5aa5988dd00",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fcee-4991-a6ad-8fd908e49317",
+        "code": "R19",
+        "symptom_id": "9c862ad5-d8d2-459d-909a-b492428136bb",
+        "effect_id": "9c862a2f-bfd6-4698-8d5e-d0cd1f852dca",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fd0d-438a-a497-eee734000477",
+        "code": "R19",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bfd6-4698-8d5e-d0cd1f852dca",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fd2d-4660-bbfa-17b9ec4da65b",
+        "code": "R19",
+        "symptom_id": "9c862ad5-d8e2-48fa-8872-8a5113bdee09",
+        "effect_id": "9c862a2f-bfd6-4698-8d5e-d0cd1f852dca",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fd4d-49f3-8a55-2a0b2baefa17",
+        "code": "R19",
+        "symptom_id": "9c862ad5-d8fc-477d-a04c-d74ddbdaa596",
+        "effect_id": "9c862a2f-bfd6-4698-8d5e-d0cd1f852dca",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fd6d-445c-9865-799f6213597c",
+        "code": "R20",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfd9-4b29-a849-c0ba272f3d0a",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fd8e-4b40-afbb-23a00d161e6a",
+        "code": "R20",
+        "symptom_id": "9c862ad5-d8d2-459d-909a-b492428136bb",
+        "effect_id": "9c862a2f-bfd9-4b29-a849-c0ba272f3d0a",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fdae-4212-8ce6-f8e0b6fc53cf",
+        "code": "R20",
+        "symptom_id": "9c862ad5-d8db-45a9-93a4-ef54770cfa55",
+        "effect_id": "9c862a2f-bfd9-4b29-a849-c0ba272f3d0a",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fdce-42ed-ae3d-bccf3f569a5b",
+        "code": "R20",
+        "symptom_id": "9c862ad5-d8de-4af9-9d21-516895de4303",
+        "effect_id": "9c862a2f-bfd9-4b29-a849-c0ba272f3d0a",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fdef-4277-943e-dec51583ada7",
+        "code": "R20",
+        "symptom_id": "9c862ad5-d91a-4144-935f-7a4d92f5beed",
+        "effect_id": "9c862a2f-bfd9-4b29-a849-c0ba272f3d0a",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fee4-4d3f-88bc-3ec83fa73f65",
+        "code": "R20",
+        "symptom_id": "9c862ad5-d928-4d09-bb5a-b6cba36e1aaf",
+        "effect_id": "9c862a2f-bfd9-4b29-a849-c0ba272f3d0a",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ff16-47f4-b127-0ee745f0bff6",
+        "code": "R20",
+        "symptom_id": "9c862ad5-d92b-437b-9761-18115b239d34",
+        "effect_id": "9c862a2f-bfd9-4b29-a849-c0ba272f3d0a",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ff3e-4ff4-9002-f025d07dff97",
+        "code": "R20",
+        "symptom_id": "9c862ad5-d930-4bb8-bb74-af6d46448976",
+        "effect_id": "9c862a2f-bfd9-4b29-a849-c0ba272f3d0a",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ff64-4f81-b863-9fc83ceb397e",
+        "code": "R20",
+        "symptom_id": "9c862ad5-d939-4284-97aa-70d625df4c06",
+        "effect_id": "9c862a2f-bfd9-4b29-a849-c0ba272f3d0a",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ff8a-4a7a-88e8-57e5efbbb0c9",
+        "code": "R21",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfdb-47e0-9bb2-285e8ebfae96",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ffad-47fb-b508-906b1706b062",
+        "code": "R21",
+        "symptom_id": "9c862ad5-d8be-4fc5-a3dd-4883468e6b49",
+        "effect_id": "9c862a2f-bfdb-47e0-9bb2-285e8ebfae96",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-ffd0-496a-95d9-1934f6af4067",
+        "code": "R21",
+        "symptom_id": "9c862ad5-d8d2-459d-909a-b492428136bb",
+        "effect_id": "9c862a2f-bfdb-47e0-9bb2-285e8ebfae96",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f67-fff2-48e8-bb57-64797ff5fb6c",
+        "code": "R21",
+        "symptom_id": "9c862ad5-d8d9-4616-a0a0-02cc472bcfe5",
+        "effect_id": "9c862a2f-bfdb-47e0-9bb2-285e8ebfae96",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0012-4650-8f5d-9f5f9366b363",
+        "code": "R21",
+        "symptom_id": "9c862ad5-d8db-45a9-93a4-ef54770cfa55",
+        "effect_id": "9c862a2f-bfdb-47e0-9bb2-285e8ebfae96",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0033-4f11-8b5b-cbc9f3f1b4ed",
+        "code": "R21",
+        "symptom_id": "9c862ad5-d8de-4af9-9d21-516895de4303",
+        "effect_id": "9c862a2f-bfdb-47e0-9bb2-285e8ebfae96",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0053-424c-b15c-30daa5570968",
+        "code": "R21",
+        "symptom_id": "9c862ad5-d8e6-43c3-ab3f-ff2700af23bb",
+        "effect_id": "9c862a2f-bfdb-47e0-9bb2-285e8ebfae96",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0073-43d6-9fbc-d941c08148f6",
+        "code": "R21",
+        "symptom_id": "9c862ad5-d91c-4508-aa6b-45e0d2bb2ca0",
+        "effect_id": "9c862a2f-bfdb-47e0-9bb2-285e8ebfae96",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0094-49c6-b986-66a575e240cb",
+        "code": "R21",
+        "symptom_id": "9c862ad5-d930-4bb8-bb74-af6d46448976",
+        "effect_id": "9c862a2f-bfdb-47e0-9bb2-285e8ebfae96",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-00b4-44b2-acb4-ff58ddfdf5e3",
+        "code": "R21",
+        "symptom_id": "9c862ad5-d932-4f89-a283-ebc678a16d77",
+        "effect_id": "9c862a2f-bfdb-47e0-9bb2-285e8ebfae96",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-00d4-4f1a-a401-fd0c18636061",
+        "code": "R21",
+        "symptom_id": "9c862ad5-d944-4038-8199-6f53202b6ece",
+        "effect_id": "9c862a2f-bfdb-47e0-9bb2-285e8ebfae96",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-00f5-4b36-b75f-a5bde441621e",
+        "code": "R22",
+        "symptom_id": "9c862ad5-d8de-4af9-9d21-516895de4303",
+        "effect_id": "9c862a2f-bfde-4ba9-9b6a-15875c6519dd",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0116-4c1b-839f-f488e2f62e1e",
+        "code": "R22",
+        "symptom_id": "9c862ad5-d8e8-4d82-a3e3-08875cee6287",
+        "effect_id": "9c862a2f-bfde-4ba9-9b6a-15875c6519dd",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0136-4aee-9c9c-efb1f2761810",
+        "code": "R22",
+        "symptom_id": "9c862ad5-d8f9-4b79-8a61-1ebd3414f65c",
+        "effect_id": "9c862a2f-bfde-4ba9-9b6a-15875c6519dd",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-019e-4164-a1ef-f4cc5b6d1f14",
+        "code": "R22",
+        "symptom_id": "9c862ad5-d934-48f7-af35-aca563f2e196",
+        "effect_id": "9c862a2f-bfde-4ba9-9b6a-15875c6519dd",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-01da-4d70-86dc-7862192fd576",
+        "code": "R22",
+        "symptom_id": "9c862ad5-d937-4623-b68b-bfadf9ff0322",
+        "effect_id": "9c862a2f-bfde-4ba9-9b6a-15875c6519dd",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0204-4fe1-8b92-471ceb1e080a",
+        "code": "R23",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfe0-40ff-be5e-abe4a568dec8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0227-40ad-86dc-134f84344b16",
+        "code": "R23",
+        "symptom_id": "9c862ad5-d8be-4fc5-a3dd-4883468e6b49",
+        "effect_id": "9c862a2f-bfe0-40ff-be5e-abe4a568dec8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0248-4965-bcd4-d2eea4f4d496",
+        "code": "R23",
+        "symptom_id": "9c862ad5-d8cd-4f14-b496-7543b570a7ca",
+        "effect_id": "9c862a2f-bfe0-40ff-be5e-abe4a568dec8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0268-4044-b6d2-0d9d85fc4cb5",
+        "code": "R23",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bfe0-40ff-be5e-abe4a568dec8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0288-4e9e-88b4-476ee69558f7",
+        "code": "R23",
+        "symptom_id": "9c862ad5-d92c-4b91-944d-ebb227b9dc94",
+        "effect_id": "9c862a2f-bfe0-40ff-be5e-abe4a568dec8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-02a8-40d3-83fc-78d2c211fa44",
+        "code": "R23",
+        "symptom_id": "9c862ad5-d930-4bb8-bb74-af6d46448976",
+        "effect_id": "9c862a2f-bfe0-40ff-be5e-abe4a568dec8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-02c8-4622-b4b9-7cbc23e031b4",
+        "code": "R24",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfe2-40f2-9a05-dbeb73dd599f",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-02e9-44b1-b93f-0821af7be373",
+        "code": "R24",
+        "symptom_id": "9c862ad5-d8d9-4616-a0a0-02cc472bcfe5",
+        "effect_id": "9c862a2f-bfe2-40f2-9a05-dbeb73dd599f",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0309-4fe9-839e-50cb5641da65",
+        "code": "R24",
+        "symptom_id": "9c862ad5-d8e6-43c3-ab3f-ff2700af23bb",
+        "effect_id": "9c862a2f-bfe2-40f2-9a05-dbeb73dd599f",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0329-486c-bfb1-a43ba0ef4c14",
+        "code": "R24",
+        "symptom_id": "9c862ad5-d8e8-4d82-a3e3-08875cee6287",
+        "effect_id": "9c862a2f-bfe2-40f2-9a05-dbeb73dd599f",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0349-4945-88fa-b0a372c92d1b",
+        "code": "R24",
+        "symptom_id": "9c862ad5-d8ea-42e0-b185-10f062a844b9",
+        "effect_id": "9c862a2f-bfe2-40f2-9a05-dbeb73dd599f",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0369-49b4-b88a-f6013d8b6d54",
+        "code": "R24",
+        "symptom_id": "9c862ad5-d8ff-4964-a07f-2ad2432abf77",
+        "effect_id": "9c862a2f-bfe2-40f2-9a05-dbeb73dd599f",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0389-4dea-80d9-675aa623d441",
+        "code": "R24",
+        "symptom_id": "9c862ad5-d930-4bb8-bb74-af6d46448976",
+        "effect_id": "9c862a2f-bfe2-40f2-9a05-dbeb73dd599f",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-03ab-4636-a2d6-9445d741c011",
+        "code": "R25",
+        "symptom_id": "9c862ad5-d930-4bb8-bb74-af6d46448976",
+        "effect_id": "9c862a2f-bfe4-4f70-b676-228a9dc00480",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-03cb-46a4-821f-878d7081db29",
+        "code": "R25",
+        "symptom_id": "9c862ad5-d93b-46ec-a9ad-4778b3dae86c",
+        "effect_id": "9c862a2f-bfe4-4f70-b676-228a9dc00480",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-03ea-447f-b821-850d439a9f40",
+        "code": "R25",
+        "symptom_id": "9c862ad5-d93d-4cf9-95d4-2c5c0299a6c1",
+        "effect_id": "9c862a2f-bfe4-4f70-b676-228a9dc00480",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-040a-40d9-8fc7-14a7a891a383",
+        "code": "R25",
+        "symptom_id": "9c862ad5-d93f-459b-a4d0-1bb78c232712",
+        "effect_id": "9c862a2f-bfe4-4f70-b676-228a9dc00480",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-042b-4948-9342-f73c9aec3a9d",
+        "code": "R26",
+        "symptom_id": "9c862ad5-d8be-4fc5-a3dd-4883468e6b49",
+        "effect_id": "9c862a2f-bfe6-4397-abe3-29de702d914d",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-044a-4630-a75f-e4b327f256e6",
+        "code": "R26",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bfe6-4397-abe3-29de702d914d",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-046a-47ed-8ebe-187b95e5b22c",
+        "code": "R26",
+        "symptom_id": "9c862ad5-d8de-4af9-9d21-516895de4303",
+        "effect_id": "9c862a2f-bfe6-4397-abe3-29de702d914d",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-04a1-4926-9c6b-dde5ac461282",
+        "code": "R26",
+        "symptom_id": "9c862ad5-d8e8-4d82-a3e3-08875cee6287",
+        "effect_id": "9c862a2f-bfe6-4397-abe3-29de702d914d",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-04cf-49e9-a533-96592045dd66",
+        "code": "R26",
+        "symptom_id": "9c862ad5-d8ff-4964-a07f-2ad2432abf77",
+        "effect_id": "9c862a2f-bfe6-4397-abe3-29de702d914d",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-04fe-4a19-8d3e-ca8339c40bea",
+        "code": "R26",
+        "symptom_id": "9c862ad5-d930-4bb8-bb74-af6d46448976",
+        "effect_id": "9c862a2f-bfe6-4397-abe3-29de702d914d",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0538-49dc-933c-16be87b97eed",
+        "code": "R27",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfe8-4bbe-b51d-fe6bb99d5cd8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0561-4c08-bb90-03ad7f4fecb6",
+        "code": "R27",
+        "symptom_id": "9c862ad5-d8c3-4b4e-8371-6deda1572a4c",
+        "effect_id": "9c862a2f-bfe8-4bbe-b51d-fe6bb99d5cd8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0582-4d32-883a-f4d29f856ab3",
+        "code": "R27",
+        "symptom_id": "9c862ad5-d8c8-4944-8e5c-5eff372733e9",
+        "effect_id": "9c862a2f-bfe8-4bbe-b51d-fe6bb99d5cd8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-05a3-449e-bf0d-9a65d33ffa7a",
+        "code": "R27",
+        "symptom_id": "9c862ad5-d8ca-45ea-80af-73e7271f0cff",
+        "effect_id": "9c862a2f-bfe8-4bbe-b51d-fe6bb99d5cd8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-05c3-43af-b081-ffd773964b4f",
+        "code": "R27",
+        "symptom_id": "9c862ad5-d8cd-4f14-b496-7543b570a7ca",
+        "effect_id": "9c862a2f-bfe8-4bbe-b51d-fe6bb99d5cd8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-05e3-4a20-a46c-c317b09a35d0",
+        "code": "R27",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bfe8-4bbe-b51d-fe6bb99d5cd8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0607-46ca-b264-dde97640b6f7",
+        "code": "R27",
+        "symptom_id": "9c862ad5-d90e-495a-a72a-8520af189f4d",
+        "effect_id": "9c862a2f-bfe8-4bbe-b51d-fe6bb99d5cd8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0628-4622-b9d1-6784429ff217",
+        "code": "R27",
+        "symptom_id": "9c862ad5-d951-41a8-8755-98ef8ba9ff61",
+        "effect_id": "9c862a2f-bfe8-4bbe-b51d-fe6bb99d5cd8",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0648-4847-bba3-55c29b616e6d",
+        "code": "R28",
+        "symptom_id": "9c862ad5-d8be-4fc5-a3dd-4883468e6b49",
+        "effect_id": "9c862a2f-bfeb-4251-ae8f-a47ad24f1a33",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0668-4fff-87bf-6265627ed451",
+        "code": "R28",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bfeb-4251-ae8f-a47ad24f1a33",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0689-473a-be61-11e288808721",
+        "code": "R28",
+        "symptom_id": "9c862ad5-d918-4f4c-ad0f-76eb199817ef",
+        "effect_id": "9c862a2f-bfeb-4251-ae8f-a47ad24f1a33",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-06a9-48ea-bd5b-9ee950a4720c",
+        "code": "R28",
+        "symptom_id": "9c862ad5-d956-49b7-bad3-5df5b78521c9",
+        "effect_id": "9c862a2f-bfeb-4251-ae8f-a47ad24f1a33",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-06ca-466e-b3d0-99c16d7a617e",
+        "code": "R29",
+        "symptom_id": "9c862ad5-d907-4f44-b891-9c9ef3dd6a95",
+        "effect_id": "9c862a2f-bfed-4c68-a86a-691e046d89e0",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-06ea-4b4d-b98f-44c2e093c8bd",
+        "code": "R29",
+        "symptom_id": "9c862ad5-d930-4bb8-bb74-af6d46448976",
+        "effect_id": "9c862a2f-bfed-4c68-a86a-691e046d89e0",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-070a-4ec7-a601-255ea38f892b",
+        "code": "R29",
+        "symptom_id": "9c862ad5-d956-49b7-bad3-5df5b78521c9",
+        "effect_id": "9c862a2f-bfed-4c68-a86a-691e046d89e0",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-072b-48f5-987d-89d2260459de",
+        "code": "R30",
+        "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
+        "effect_id": "9c862a2f-bfef-457c-8fa2-f564d6dde141",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-074c-4166-a510-f0dad5ec01e0",
+        "code": "R30",
+        "symptom_id": "9c862ad5-d8be-4fc5-a3dd-4883468e6b49",
+        "effect_id": "9c862a2f-bfef-457c-8fa2-f564d6dde141",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-076d-48fa-9bf2-f1d655da4e4f",
+        "code": "R30",
+        "symptom_id": "9c862ad5-d8d9-4616-a0a0-02cc472bcfe5",
+        "effect_id": "9c862a2f-bfef-457c-8fa2-f564d6dde141",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-078d-40e2-a149-d6a264f3ca0b",
+        "code": "R30",
+        "symptom_id": "9c862ad5-d947-4c1f-b5b7-60a4843181ad",
+        "effect_id": "9c862a2f-bfef-457c-8fa2-f564d6dde141",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-07b0-47d6-b1d9-95a62561bc14",
+        "code": "R30",
+        "symptom_id": "9c862ad5-d949-4333-b0a0-4c074499b9d5",
+        "effect_id": "9c862a2f-bfef-457c-8fa2-f564d6dde141",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-07d0-4153-baf2-14738a637a1f",
+        "code": "R31",
+        "symptom_id": "9c862ad5-d8d2-459d-909a-b492428136bb",
+        "effect_id": "9c862a2f-bff1-48d3-9038-fc8869ea4fae",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-07f1-47fe-b995-24b5aba7269f",
+        "code": "R31",
+        "symptom_id": "9c862ad5-d8de-4af9-9d21-516895de4303",
+        "effect_id": "9c862a2f-bff1-48d3-9038-fc8869ea4fae",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0811-44f7-aa7e-6ac6d6af0ca1",
+        "code": "R31",
+        "symptom_id": "9c862ad5-d8e8-4d82-a3e3-08875cee6287",
+        "effect_id": "9c862a2f-bff1-48d3-9038-fc8869ea4fae",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0831-4211-948c-acb652520f90",
+        "code": "R31",
+        "symptom_id": "9c862ad5-d91e-459d-a089-271d50b3e2ea",
+        "effect_id": "9c862a2f-bff1-48d3-9038-fc8869ea4fae",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0851-42ec-8559-d9d5d6aac3ce",
+        "code": "R31",
+        "symptom_id": "9c862ad5-d930-4bb8-bb74-af6d46448976",
+        "effect_id": "9c862a2f-bff1-48d3-9038-fc8869ea4fae",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0872-4c18-8a97-c1382325c8cf",
+        "code": "R31",
+        "symptom_id": "9c862ad5-d939-4284-97aa-70d625df4c06",
+        "effect_id": "9c862a2f-bff1-48d3-9038-fc8869ea4fae",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0892-4c82-8b35-7860dbf53d0b",
+        "code": "R32",
+        "symptom_id": "9c862ad5-d8cd-4f14-b496-7543b570a7ca",
+        "effect_id": "9c862a2f-bff4-4bf5-adb0-8f0a2dff42f7",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-08b2-4bb4-80dd-6da9da9eb8f8",
+        "code": "R32",
+        "symptom_id": "9c862ad5-d8d2-459d-909a-b492428136bb",
+        "effect_id": "9c862a2f-bff4-4bf5-adb0-8f0a2dff42f7",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-08d3-4957-9eaa-e53d83df9a6f",
+        "code": "R32",
+        "symptom_id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
+        "effect_id": "9c862a2f-bff4-4bf5-adb0-8f0a2dff42f7",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-08f2-47f3-a19e-eb661498854e",
+        "code": "R32",
+        "symptom_id": "9c862ad5-d8de-4af9-9d21-516895de4303",
+        "effect_id": "9c862a2f-bff4-4bf5-adb0-8f0a2dff42f7",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0913-4516-a531-31d7e6398e4c",
+        "code": "R32",
+        "symptom_id": "9c862ad5-d930-4bb8-bb74-af6d46448976",
+        "effect_id": "9c862a2f-bff4-4bf5-adb0-8f0a2dff42f7",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    },
+    {
+        "id": "9c863f68-0933-4a9b-9621-799098ec5730",
+        "code": "R32",
+        "symptom_id": "9c862ad5-d942-459c-be09-2ab1175d8c8a",
+        "effect_id": "9c862a2f-bff4-4bf5-adb0-8f0a2dff42f7",
+        "effect_type": "disease",
+        "created_at": "2024-07-15 11:30:25",
+        "updated_at": "2024-07-15 11:35:06"
+    }
+]

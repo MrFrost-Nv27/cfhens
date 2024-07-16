@@ -1,11 +1,13 @@
 <?php
 
 namespace App\Controllers;
+use App\Models\Cfhens\RuleModel;
 
 class Home extends BaseController
 {
     public function index(): string
     {
-        return view('welcome_message');
+        // dd(RuleModel::get()->groupBy('code')->toJson());
+        return view('pages/landing/index');
     }
 }

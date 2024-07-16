@@ -16,7 +16,6 @@
 </head>
 
 <body>
-    <?=$this->include('layouts/_preloader')?>
     <div class="parent-wrapper">
         <?=$this->renderSection('main')?>
     </div>
