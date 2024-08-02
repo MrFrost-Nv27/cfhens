@@ -15,9 +15,11 @@
     <div class="nav-item" data-page="rule">
         <a href="<?= base_url('kelola/rule') ?>" class="nav-link"><i class="material-icons">checklist</i>Data Rule Diagnosa</a>
     </div>
+    <!--
     <div class="nav-item" data-page="implement">
         <a href="<?= base_url('kelola/implement') ?>" class="nav-link"><i class="material-icons">calculate</i>Implementasi</a>
     </div>
+    -->
 </div>
 <!--
 <div class="nav-bottom">

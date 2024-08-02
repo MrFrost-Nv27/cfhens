@@ -20,11 +20,11 @@
         <?=$this->renderSection('main')?>
     </div>
     <!--JavaScript at end of body for optimized loading-->
-    <script type="text/javascript" src="<?=base_url('js/materialize.min.js')?>"></script>
     <?=$this->include('layouts/script')?>
     <script>
     const baseUrl = '<?=base_url()?>';
     </script>
+    <script type="text/javascript" src="<?=base_url('js/materialize.min.js')?>"></script>
     <script src="<?=base_url('js/pages/landing/main.js')?>"></script>
     <?=$this->renderSection('script')?>
 </body>

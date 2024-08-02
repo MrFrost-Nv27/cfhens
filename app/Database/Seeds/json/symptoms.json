@@ -2,316 +2,379 @@
     {
         "id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",
         "code": "G01",
-        "name": "Nafsu makan berkurang"
+        "name": "Nafsu makan berkurang",
+        "cfpakar": 0.23
     },
     {
         "id": "9c862ad5-d8be-4fc5-a3dd-4883468e6b49",
         "code": "G02",
-        "name": "Ayam sesak nafas\/megap-megap"
+        "name": "sesak nafas\/megap-megap",
+        "cfpakar": 0.37
     },
     {
         "id": "9c862ad5-d8c3-4b4e-8371-6deda1572a4c",
         "code": "G03",
-        "name": "Ayam mengeluarkan suara seperti mengorok"
+        "name": "mengeluarkan suara seperti mengorok",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8c6-4f30-91de-701163da5c0a",
         "code": "G04",
-        "name": "Nafas cepat"
+        "name": "Nafas cepat",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8c8-4944-8e5c-5eff372733e9",
         "code": "G05",
-        "name": "Bersin-bersin"
+        "name": "Bersin-bersin",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8ca-45ea-80af-73e7271f0cff",
         "code": "G06",
-        "name": "Batuk"
+        "name": "Batuk",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8cd-4f14-b496-7543b570a7ca",
         "code": "G07",
-        "name": "Badan kurus"
+        "name": "Badan kurus",
+        "cfpakar": 0.43
     },
     {
         "id": "9c862ad5-d8d0-4f9b-9260-04c27ad6f948",
         "code": "G08",
-        "name": "Bulu kusam dan berkerut"
+        "name": "Bulu kusam dan berkerut",
+        "cfpakar": 0.40
     },
     {
         "id": "9c862ad5-d8d2-459d-909a-b492428136bb",
         "code": "G09",
-        "name": "Kotoran ayam encer"
+        "name": "Kotoran encer",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8d4-4b43-b0f6-e15d5d1dbefe",
         "code": "G10",
-        "name": "Produksi telur menurun"
+        "name": "Produksi telur menurun",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8d7-4de1-98dd-9bd374bdafc9",
         "code": "G11",
-        "name": "Kualitas telur jelek"
+        "name": "Kualitas telur jelek",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8d9-4616-a0a0-02cc472bcfe5",
         "code": "G12",
-        "name": "Kelihatan ngantuk dan bulu berdiri"
+        "name": "Kelihatan ngantuk dan bulu berdiri",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8db-45a9-93a4-ef54770cfa55",
         "code": "G13",
-        "name": "Kedinginan"
+        "name": "Kedinginan",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8de-4af9-9d21-516895de4303",
         "code": "G14",
-        "name": "Tampak lesu"
+        "name": "Tampak lesu",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8e0-4b92-9b58-b721d83208c6",
         "code": "G15",
-        "name": "Mencret berwarna kehijau-hijauan"
+        "name": "Mencret berwarna kehijau-hijauan",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8e2-48fa-8872-8a5113bdee09",
         "code": "G16",
-        "name": "Mencret berwarna keputih-putihan"
+        "name": "Mencret berwarna keputih-putihan",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8e4-4be5-8368-a64cc418cdaf",
         "code": "G17",
-        "name": "Mencret bercampur darah"
+        "name": "Mencret bercampur darah",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8e6-43c3-ab3f-ff2700af23bb",
         "code": "G18",
-        "name": "Banyak minum"
+        "name": "Banyak minum",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8e8-4d82-a3e3-08875cee6287",
         "code": "G19",
-        "name": "Muka pucat"
+        "name": "Muka pucat",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8ea-42e0-b185-10f062a844b9",
         "code": "G20",
-        "name": "Nampak membiru"
+        "name": "Nampak membiru",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8f9-4b79-8a61-1ebd3414f65c",
         "code": "G21",
-        "name": "Sempoyongan"
+        "name": "Sempoyongan",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8fc-477d-a04c-d74ddbdaa596",
         "code": "G22",
-        "name": "Jengger membengkak merah"
+        "name": "Jengger membengkak merah",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d8ff-4964-a07f-2ad2432abf77",
         "code": "G23",
-        "name": "Jengger pucat"
+        "name": "Jengger pucat",
+        "cfpakar": 0.43
     },
     {
         "id": "9c862ad5-d902-4565-ae8d-15f777decd28",
         "code": "G24",
-        "name": "Kaki bengkak"
+        "name": "Kaki bengkak",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d905-4b6e-ac78-27c058194920",
         "code": "G25",
-        "name": "Kaki meradang\/lumpuh"
+        "name": "Kaki meradang\/lumpuh",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d907-4f44-b891-9c9ef3dd6a95",
         "code": "G26",
-        "name": "Kaki pincang"
+        "name": "Kaki pincang",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d909-46cc-a965-5af778c33ecc",
         "code": "G27",
-        "name": "Kelopak mata kemerahan"
+        "name": "Kelopak mata kemerahan",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d90c-4a8c-a067-9e417556f6a8",
         "code": "G28",
-        "name": "Keluar cairan berbusa dari mata"
+        "name": "Keluar cairan berbusa dari mata",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d90e-495a-a72a-8520af189f4d",
         "code": "G29",
-        "name": "Keluar cairan dari mata dan hidung"
+        "name": "Keluar cairan dari mata dan hidung",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d910-4327-9b09-1df39b413bc1",
         "code": "G30",
-        "name": "Keluar nanah dari mata dan bau"
+        "name": "Keluar nanah dari mata dan bau",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d912-43e5-8a97-5ae05f14543c",
         "code": "G31",
-        "name": "Kepala bengkak"
+        "name": "Kepala bengkak",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d914-4178-a69d-6478f2a1fbd8",
         "code": "G32",
-        "name": "Kepala terputar kebelakang atau kesamping"
+        "name": "Kepala terputar kebelakang atau kesamping",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d916-40ed-aad7-585b09c9ebfa",
         "code": "G33",
-        "name": "Mata berair"
+        "name": "Mata berair",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d918-4f4c-ad0f-76eb199817ef",
         "code": "G34",
-        "name": "Pembengkakan dari sinus dan mata"
+        "name": "Pembengkakan dari sinus dan mata",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d91a-4144-935f-7a4d92f5beed",
         "code": "G35",
-        "name": "Perut membesar"
+        "name": "Perut membesar",
+        "cfpakar": 0.80
     },
     {
         "id": "9c862ad5-d91c-4508-aa6b-45e0d2bb2ca0",
         "code": "G36",
-        "name": "Sayap turun kebawah seperti menggantung"
+        "name": "Sayap turun kebawah seperti menggantung",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d91e-459d-a089-271d50b3e2ea",
         "code": "G37",
-        "name": "Terdapat kotoran putih menempel disekitar anus"
+        "name": "Terdapat kotoran putih menempel disekitar anus",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d920-46bb-a031-faa6ee0c5703",
         "code": "G38",
-        "name": "Terdapat lendir bercampur darah pada rongga mulut"
+        "name": "Terdapat lendir bercampur darah pada rongga mulut",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d922-415c-a2f9-34154dfc546a",
         "code": "G39",
-        "name": "Tidur paruhnya diletakkan di lantai"
+        "name": "Tidur paruhnya diletakkan di lantai",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d924-47d9-ac9c-e52c89807a9a",
         "code": "G40",
-        "name": "Duduk dengan sikap membungkuk"
+        "name": "Duduk dengan sikap membungkuk",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d926-4f5e-ad0c-fe0c176368f4",
         "code": "G41",
-        "name": "Mati secara mendadak"
+        "name": "Mati secara mendadak",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d928-4d09-bb5a-b6cba36e1aaf",
         "code": "G42",
-        "name": "Tubuh ayam saat ditekan terasa lunak"
+        "name": "Tubuh saat ditekan terasa lunak",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d92b-437b-9761-18115b239d34",
         "code": "G43",
-        "name": "Pusar tampak membuka, basah dan berwarna kemerahan, kadang menonjol dan berwarna merah tua"
+        "name": "Pusar tampak membuka, basah dan berwarna kemerahan, kadang menonjol dan berwarna merah tua",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d92c-4b91-944d-ebb227b9dc94",
         "code": "G44",
-        "name": "Timbul kutil pada area tidak berbulu (kaki, jengger dan kelopak mata)"
+        "name": "Timbul kutil pada area tidak berbulu (kaki, jengger dan kelopak mata)",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d930-4bb8-bb74-af6d46448976",
         "code": "G45",
-        "name": "Pertumbuhan terhambat"
+        "name": "Pertumbuhan terhambat",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d932-4f89-a283-ebc678a16d77",
         "code": "G46",
-        "name": "Depresi"
+        "name": "Depresi",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d934-48f7-af35-aca563f2e196",
         "code": "G47",
-        "name": "Jatuh ke samping dengan kaki terjulur ke salah satu sisi"
+        "name": "Jatuh ke samping dengan kaki terjulur ke salah satu sisi",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d937-4623-b68b-bfadf9ff0322",
         "code": "G48",
-        "name": "Kepala dan leher bergetar"
+        "name": "Kepala dan leher bergetar",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d939-4284-97aa-70d625df4c06",
         "code": "G49",
-        "name": "Bulu berdiri"
+        "name": "Bulu berdiri",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d93b-46ec-a9ad-4778b3dae86c",
         "code": "G50",
-        "name": "Sebagian besar bulu kapas dan tangkai bulu patah"
+        "name": "Sebagian besar bulu kapas dan tangkai bulu patah",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d93d-4cf9-95d4-2c5c0299a6c1",
         "code": "G51",
-        "name": "Bulu seperti baling-baling"
+        "name": "Bulu seperti baling-baling",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d93f-459b-a4d0-1bb78c232712",
         "code": "G52",
-        "name": "Kulit dan paruh pucat"
+        "name": "Kulit dan paruh pucat",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d942-459c-be09-2ab1175d8c8a",
         "code": "G53",
-        "name": "Mencret disertai lendir, terkadang terdapat cacing"
+        "name": "Mencret disertai lendir, terkadang terdapat cacing",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d944-4038-8199-6f53202b6ece",
         "code": "G54",
-        "name": "Berdiri pada satu kaki dengan kepala tertunduk"
+        "name": "Berdiri pada satu kaki dengan kepala tertunduk",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d947-4c1f-b5b7-60a4843181ad",
         "code": "G55",
-        "name": "Kejang-kejang"
+        "name": "Kejang-kejang",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d949-4333-b0a0-4c074499b9d5",
         "code": "G56",
-        "name": "Syaraf lumpuh"
+        "name": "Syaraf lumpuh",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d951-41a8-8755-98ef8ba9ff61",
         "code": "G57",
-        "name": "Terdapat selaput pada mata"
+        "name": "Terdapat selaput pada mata",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d956-49b7-bad3-5df5b78521c9",
         "code": "G58",
-        "name": "Tampak malas bergerak"
+        "name": "Tampak malas bergerak",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d95c-4012-bb38-88857e9d61e7",
         "code": "G59",
-        "name": "Berkumpul disekitar pemanas"
+        "name": "Berkumpul disekitar pemanas",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d961-453f-9d1e-4f9d4b70d49d",
         "code": "G60",
-        "name": "Ukuran telur kecil, lunak dan pudar"
+        "name": "Ukuran telur kecil, lunak dan pudar",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d966-494c-b715-799b7530127a",
         "code": "G61",
-        "name": "Berat ayam hanya setengah dari berat biasanya"
+        "name": "Berat hanya setengah dari berat biasanya",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d969-4117-83d2-5f9d6ef8810e",
         "code": "G62",
-        "name": "Ayam tidak mau makan dan bergerak"
+        "name": "tidak mau makan dan bergerak",
+        "cfpakar": 0.0
     },
     {
         "id": "9c862ad5-d96c-4f41-9e3c-d1bc73397d18",
         "code": "G63",
-        "name": "Ayam kaku dan sulit bergerak"
+        "name": "kaku dan sulit bergera",
+        "cfpakar": 0.0
     }
 ]

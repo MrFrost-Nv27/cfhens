@@ -15,6 +15,7 @@ class SymptomModel extends Model
     protected $fillable = [
         "code",
         "name",
+        "cfpakar",
         "description",
     ];
 }
