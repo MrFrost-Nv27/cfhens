@@ -25,7 +25,7 @@ $routes->group('kelola', static function (RouteCollection $routes) {
     $routes->get('disease', [Manage::class, 'disease']);
     $routes->get('symptom', [Manage::class, 'symptom']);
     $routes->get('rule', [Manage::class, 'rule']);
-    // $routes->get('implementasi', [Manage::class, 'implementasi']);
+    $routes->get('implement', [Manage::class, 'implementasiView']);
 });
 
 $routes->group('api', ['namespace' => 'App\Controllers\Api'], static function ($routes) {

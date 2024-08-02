@@ -1,50 +1,5 @@
 [
     {
-        "id": "9c863f67-ec1b-43cd-b1f1-a8cb575555c7",
-        "code": "R01",
-        "symptom_id": "9c862ad5-d95c-4012-bb38-88857e9d61e7",
-        "effect_id": "9c862ad5-d8db-45a9-93a4-ef54770cfa55",
-        "effect_type": "symptom",
-        "created_at": "2024-07-15 11:30:25",
-        "updated_at": "2024-07-15 11:35:06"
-    },
-    {
-        "id": "9c863f67-ed81-4402-b66d-ed5f5b026e77",
-        "code": "R02",
-        "symptom_id": "9c862ad5-d961-453f-9d1e-4f9d4b70d49d",
-        "effect_id": "9c862ad5-d8d7-4de1-98dd-9bd374bdafc9",
-        "effect_type": "symptom",
-        "created_at": "2024-07-15 11:30:25",
-        "updated_at": "2024-07-15 11:35:06"
-    },
-    {
-        "id": "9c863f67-edaf-40bc-8167-e49bad13b02b",
-        "code": "R03",
-        "symptom_id": "9c862ad5-d966-494c-b715-799b7530127a",
-        "effect_id": "9c862ad5-d930-4bb8-bb74-af6d46448976",
-        "effect_type": "symptom",
-        "created_at": "2024-07-15 11:30:25",
-        "updated_at": "2024-07-15 11:35:06"
-    },
-    {
-        "id": "9c863f67-eddc-4970-8a10-a3fcd3157019",
-        "code": "R04",
-        "symptom_id": "9c862ad5-d969-4117-83d2-5f9d6ef8810e",
-        "effect_id": "9c862ad5-d932-4f89-a283-ebc678a16d77",
-        "effect_type": "symptom",
-        "created_at": "2024-07-15 11:30:25",
-        "updated_at": "2024-07-15 11:35:06"
-    },
-    {
-        "id": "9c863f67-ee07-4d23-8f79-bfda4b0efbc8",
-        "code": "R05",
-        "symptom_id": "9c862ad5-d96c-4f41-9e3c-d1bc73397d18",
-        "effect_id": "9c862ad5-d949-4333-b0a0-4c074499b9d5",
-        "effect_type": "symptom",
-        "created_at": "2024-07-15 11:30:25",
-        "updated_at": "2024-07-15 11:35:06"
-    },
-    {
         "id": "9c863f67-ee33-4f50-9397-5abb200b551a",
         "code": "R06",
         "symptom_id": "9c862ad5-d638-4ec5-af26-516ba3eab04c",

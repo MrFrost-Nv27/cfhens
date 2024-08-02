@@ -38,7 +38,6 @@
     </div>
 
     <!--JavaScript at end of body for optimized loading-->
-    <script type="text/javascript" src="<?=base_url('js/materialize.min.js')?>"></script>
     <?=$this->include('layouts/script')?>
     <script>
     const dt = new DataTable('.init-datatables', {
@@ -48,6 +47,7 @@
     const page = '<?=$page ?? 'dashboard'?>';
     const baseUrl = '<?=base_url()?>';
     </script>
+    <script type="text/javascript" src="<?=base_url('js/materialize.min.js')?>"></script>
     <script src="<?=base_url("js/pages/panel/main.js?timestamp=" . time())?>"></script>
     <script src="<?=base_url("js/pages/panel/$page.js?timestamp=" . time())?>"></script>
     <?=$this->renderSection('script')?>

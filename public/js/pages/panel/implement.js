@@ -5,16 +5,7 @@ $(".parent-wrapper").scroll(function () {
   console.log($(this).scrollTop(), $(this).innerHeight(), $(this)[0].scrollHeight);
 });
 
-$(".next-page").on("click", function (e) {
-  const page = $(this).closest(".page").next();
-  page.addClass("active");
-});
-$(".back-page").on("click", function (e) {
-  const page = $(this).closest(".page");
-  page.removeClass("active");
-});
-
-$("form#form-diagnosa").on("submit", function (e) {
+$("form#form-calculate").on("submit", function (e) {
   e.preventDefault();
   const data = {};
   $(this)
@@ -47,6 +38,22 @@ $("form#form-diagnosa").on("submit", function (e) {
         return;
       }
 
+      const tableResult = $("table#result");
+
+      tableResult.find("tbody").empty();
+
+      $.each(res.result, function (i, r) {
+        tableResult
+          .find("tbody")
+          .append(
+            `<tr>
+              <td>${r.penyakit.code}</td>
+              <td>${r.penyakit.name}</td>
+              <td>${r.cfcombine > 10 ? 100 : (r.cfcombine * 10).toFixed(2)}%</td>
+            </tr>`
+          );
+      });
+
       const hasil = res.result.filter((x) => x.cfcombine == res.result[0].cfcombine).sort((a, b) => a.cfhe.length - b.cfhe.length)[0];
 
       Swal.fire({
@@ -68,44 +75,42 @@ $(document).ready(function () {
       },
     })
     .then((disease) => {
-      const tableDisease = $("table#disease tbody");
-      let num = 1;
-      tableDisease.empty();
+      const tableRules = $("#table-rule");
+      const tr = $(`<tr><th></th></tr>`);
       $.each(disease, function (i, d) {
-        tableDisease.append(`
-          <tr>
-            <td class="center">${num}</td>
-            <td>${d.name}</td>
-          </tr>
-        `);
-        num++;
+        tr.append(`<th>${d.code}</th>`);
       });
-    });
+      tableRules.find("thead").empty().append(tr);
+      cloud
+        .add(origin + "/api/symptom", {
+          name: "symptom",
+          callback: (data) => {
+            table.symptom.ajax.reload();
+          },
+        })
+        .then((symptom) => {
+          $.each(symptom, function (j, s) {
+            const tr = $(`<tr><td>${s.code}</td></tr>`);
+            $.each(disease, function (j, d) {
+              const ruleExist = d.rules.find((r) => r.symptom_id == s.id);
+              tr.append(`<td>${ruleExist ? 1 : 0}</td>`);
+            });
+            tableRules.find("tbody").append(tr);
 
-  cloud
-    .add(origin + "/api/symptom", {
-      name: "symptom",
-      callback: (data) => {
-        table.symptom.ajax.reload();
-      },
-    })
-    .then((symptom) => {
-      $.each(symptom, function (i, symp) {
-        if (symp) {
-          const form = $(`form#form-diagnosa .question`);
-          form.append(`
+            const form = $(`form#form-calculate .question`);
+            form.append(`
                     <div class="input-field col s12">
-                        <select name="${symp.code}" id="${symp.code}">
+                        <select name="${s.code}" id="${s.code}">
                             <option value="0.0"selected>Pilih Jawaban</option>
                             <option value="1.0">Ya</option>
                             <option value="0.0">Tidak</option>
                         </select>
-                        <label for="${symp.code}">Apakah Ayam Anda mengalami gejala ${symp.name}?</label>
+                        <label for="${s.code}">Apakah Ayam Anda mengalami gejala ${s.name}?</label>
                     </div>
             `);
-        }
-      });
-      $("select").formSelect();
+          });
+          $("select").formSelect();
+        });
     });
 
   $(".preloader").slideUp();

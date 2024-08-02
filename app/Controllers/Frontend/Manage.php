@@ -50,6 +50,13 @@ class Manage extends BaseController
         ]);
         return $this->view->render("pages/panel/rule");
     }
+    public function implementasiView(): string
+    {
+        $this->view->setData([
+            "page" => "implement",
+        ]);
+        return $this->view->render("pages/panel/implement");
+    }
     public function implementasi()
     {
         $cfuser = collect([]);
@@ -67,7 +74,7 @@ class Manage extends BaseController
         }))->each(function ($value, $key) use (&$diseases) {
             if ($value->effect_type == "disease") {
                 if (!in_array($value->effect->id, $diseases->pluck("id")->toArray())) {
-                    $diseases->push($value->effect  );
+                    $diseases->push($value->effect);
                 }
             }
         });
@@ -79,9 +86,14 @@ class Manage extends BaseController
                 $cfhe->push((double) (1 * (in_array($symptom->code, $cfuser->toArray()) ? 1 : 0)));
             });
 
-            $cfcombine = 1.0;
+            $cfcombine = 0.0;
             $cfhe->each(function ($value, $key) use (&$cfcombine) {
-                $cfcombine += $value * $cfcombine;
+                if ($key == 0) {
+                    $cfcombine += $value;
+                    return;
+                }
+
+                $cfcombine += $value * (1 - $cfcombine);
             });
             $result->push([
                 "penyakit" => $value,

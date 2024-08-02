@@ -346,35 +346,5 @@
         "code": "G58",
         "name": "Tampak malas bergerak",
         "cfpakar": 0.0
-    },
-    {
-        "id": "9c862ad5-d95c-4012-bb38-88857e9d61e7",
-        "code": "G59",
-        "name": "Berkumpul disekitar pemanas",
-        "cfpakar": 0.0
-    },
-    {
-        "id": "9c862ad5-d961-453f-9d1e-4f9d4b70d49d",
-        "code": "G60",
-        "name": "Ukuran telur kecil, lunak dan pudar",
-        "cfpakar": 0.0
-    },
-    {
-        "id": "9c862ad5-d966-494c-b715-799b7530127a",
-        "code": "G61",
-        "name": "Berat hanya setengah dari berat biasanya",
-        "cfpakar": 0.0
-    },
-    {
-        "id": "9c862ad5-d969-4117-83d2-5f9d6ef8810e",
-        "code": "G62",
-        "name": "tidak mau makan dan bergerak",
-        "cfpakar": 0.0
-    },
-    {
-        "id": "9c862ad5-d96c-4f41-9e3c-d1bc73397d18",
-        "code": "G63",
-        "name": "kaku dan sulit bergera",
-        "cfpakar": 0.0
     }
 ]
