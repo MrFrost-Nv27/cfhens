@@ -20,6 +20,6 @@ class DiseaseModel extends Model
 
     public function rules(): HasMany
     {
-        return $this->hasMany(RuleModel::class, 'effect_id', 'id');
+        return $this->hasMany(RuleModel::class, 'disease_id', 'id');
     }
 }

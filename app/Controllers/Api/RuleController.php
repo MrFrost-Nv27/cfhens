@@ -9,14 +9,12 @@ use App\Models\Cfhens\SymptomModel;
 class RuleController extends BaseApi
 {
     protected $modelName = RuleModel::class;
-    protected $load = ["symptom"];
-    protected $append = ["effect"];
+    protected $load = ["symptom", "disease"];
 
     public function validateCreate(&$request)
     {
         return $this->validate([
             'code' => 'required',
-            'type' => 'required',
         ]);
     }
 

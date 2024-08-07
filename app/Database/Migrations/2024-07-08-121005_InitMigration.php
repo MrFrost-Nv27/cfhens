@@ -46,8 +46,11 @@ class InitMigration extends Migration
                 ->constrained("symptoms")
                 ->onUpdate('cascade')
                 ->onDelete('cascade');
-            $table->uuid('effect_id')->nullable();
-            $table->enum("effect_type", ["disease", "symptom"])->nullable();
+            $table->foreignUuid('disease_id')
+                    ->nullable()
+                    ->constrained("diseases")
+                    ->onUpdate('cascade')
+                    ->onDelete('cascade');
             $table->timestamps();
         });
     }

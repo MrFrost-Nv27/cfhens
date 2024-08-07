@@ -28,18 +28,11 @@ const table = {
         },
       },
       {
-        title: "Akibat",
+        title: "Penyakit",
         render(data, type, row) {
-          return row[0].effect?.name ?? "-";
+          return row[0].disease.name ?? "-";
         },
       },
-      {
-        title: "Tipe",
-        render(data, type, row) {
-          return row[0].effect_type == "symptom" ? "Gejala" : "Penyakit";
-        },
-      },
-      // { title: "Nama Penyakit", data: "name" },
       {
         title: "Aksi",
         render: (data, type, row) => {

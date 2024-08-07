@@ -15,8 +15,7 @@ class RuleModel extends Model
     protected $fillable = [
         'code',
         'symptom_id',
-        'effect_id',
-        "effect_type",
+        'disease_id',
     ];
 
     public function symptom() : HasOne
@@ -24,15 +23,8 @@ class RuleModel extends Model
         return $this->hasOne(SymptomModel::class, 'id', 'symptom_id');
     }
 
-    protected function effect(): Attribute
+    public function disease(): HasOne
     {
-        return Attribute::make(
-            get: fn (mixed $value, array $attributes) => $this->tapEffect($attributes['effect_type'], $attributes['effect_id']),
-        );
-    }
-
-    public function tapEffect($type, $id)
-    {
-        return $type == "symptom" ? SymptomModel::find($id) : DiseaseModel::find($id);
+        return $this->hasOne(DiseaseModel::class, 'id', 'disease_id');
     }
 }

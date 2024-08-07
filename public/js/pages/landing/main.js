@@ -51,7 +51,7 @@ $("form#form-diagnosa").on("submit", function (e) {
 
       Swal.fire({
         title: "Berhasil di diagnosa",
-        text: `Ayam anda mengidap penyakit ${hasil.penyakit.name} dengan nilai Certainty Factor sebesar ${hasil.cfcombine > 10 ? 100 : (hasil.cfcombine * 10).toFixed(2)}%`,
+        text: `Ayam anda mengidap penyakit ${hasil.penyakit.name} dengan nilai Certainty Factor sebesar ${hasil.cfcombine > 1 ? 100 : (hasil.cfcombine * 100).toFixed(2)}%`,
         icon: "info",
       });
     },
@@ -97,7 +97,11 @@ $(document).ready(function () {
                     <div class="input-field col s12">
                         <select name="${symp.code}" id="${symp.code}">
                             <option value="0.0"selected>Pilih Jawaban</option>
-                            <option value="1.0">Ya</option>
+                            <option value="1.0">Sangat Yakin</option>
+                            <option value="0.8">Yakin</option>
+                            <option value="0.6">Cukup Yakin</option>
+                            <option value="0.4">Kurang Yakin</option>
+                            <option value="0.2">Tidak Tahu</option>
                             <option value="0.0">Tidak</option>
                         </select>
                         <label for="${symp.code}">Apakah Ayam Anda mengalami gejala ${symp.name}?</label>

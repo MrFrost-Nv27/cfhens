@@ -37,8 +37,7 @@ class InitSeeder extends Seeder
             RuleModel::upsert($t, ['id'], [
                 'code',
                 'symptom_id',
-                'effect_id',
-                "effect_type",
+                'disease_id',
             ], );
         }
     }

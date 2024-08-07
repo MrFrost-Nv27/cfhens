@@ -62,28 +62,28 @@ class Manage extends BaseController
         $cfuser = collect([]);
         collect($this->request->getPost())->each(function ($value, $key) use (&$cfuser) {
             if ($value > 0) {
-                $cfuser->push($key);
+                $cfuser->push([
+                    "code" => $key,
+                    "value" => (double) $value,
+                ]);
             };
         });
 
-        $symptomps = SymptomModel::whereIn('code', $cfuser->toArray())->get();
+        $symptomps = SymptomModel::whereIn('code', $cfuser->pluck("code")->toArray())->get();
         $diseases = collect([]);
         $result = collect([]);
-        RuleModel::whereIn("symptom_id", $symptomps->map(function ($value, $key) {
-            return $value->id;
-        }))->each(function ($value, $key) use (&$diseases) {
-            if ($value->effect_type == "disease") {
-                if (!in_array($value->effect->id, $diseases->pluck("id")->toArray())) {
-                    $diseases->push($value->effect);
-                }
+
+        RuleModel::whereIn("symptom_id", $symptomps->pluck("id")->toArray())->each(function ($value, $key) use (&$diseases) {
+            if (!in_array($value->disease->id, $diseases->pluck("id")->toArray())) {
+                $diseases->push($value->disease);
             }
         });
 
         $diseases->each(function ($value, $key) use (&$result, $cfuser) {
             $cfhe = collect([]);
             $value->rules->each(function ($rule, $key) use (&$cfhe, $result, $cfuser) {
-                $symptom = SymptomModel::find($rule->symptom_id);
-                $cfhe->push((double) (1 * (in_array($symptom->code, $cfuser->toArray()) ? 1 : 0)));
+                $cfe = $cfuser->where("code", $rule->symptom->code)->first();
+                $cfhe->push((double) ($rule->symptom->cfpakar * (isset($cfe['value']) ? $cfe['value'] : 0.0)));
             });
 
             $cfcombine = 0.0;
