@@ -2,12 +2,10 @@
 
 namespace App\Controllers;
 
-use App\Libraries\Eloquent;
 use CodeIgniter\Exceptions\PageNotFoundException;
 use CodeIgniter\HTTP\RequestInterface;
 use CodeIgniter\HTTP\ResponseInterface;
 use Exception;
-use Illuminate\Database\Schema\Blueprint;
 use Psr\Log\LoggerInterface;
 use Throwable;
 
@@ -20,10 +18,10 @@ class Migrate extends BaseController
     ) {
         parent::initController($request, $response, $logger);
         if (ENVIRONMENT !== 'development') {
-            return throw new PageNotFoundException('Halaman tidak ditemukan');
+            throw new PageNotFoundException('Halaman tidak ditemukan');
         }
     }
-    
+
     public function index()
     {
         if (file_exists(WRITEPATH . 'storage/store.json')) {
@@ -50,7 +48,6 @@ class Migrate extends BaseController
             $migrate->setNamespace('App')->latest();
 
             $seeder->call('InitSeeder');
-
         } catch (Throwable $e) {
             throw new Exception($e->getMessage());
         }

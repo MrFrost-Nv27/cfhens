@@ -29,10 +29,11 @@ $routes->group('kelola', static function (RouteCollection $routes) {
 });
 
 $routes->group('api', ['namespace' => 'App\Controllers\Api'], static function ($routes) {
-    $routes->group('v2', ['namespace' => 'App\Controllers\Api'], static function ($routes) {
-    });
+    $routes->group('v2', ['namespace' => 'App\Controllers\Api'], static function ($routes) {});
     $routes->post('implementasi', [Manage::class, 'implementasi']);
     $routes->resource('disease', ['namespace' => '', 'controller' => DiseaseController::class, 'websafe' => 1]);
     $routes->resource('symptom', ['namespace' => '', 'controller' => SymptomController::class, 'websafe' => 1]);
+    $routes->post('rule/creates', [RuleController::class, 'creates']);
+    $routes->post('rule/updates', [RuleController::class, 'updates']);
     $routes->resource('rule', ['namespace' => '', 'controller' => RuleController::class, 'websafe' => 1]);
 });

@@ -5,6 +5,7 @@ namespace App\Controllers\Api;
 use App\Controllers\BaseApi;
 use App\Models\Cfhens\RuleModel;
 use App\Models\Cfhens\SymptomModel;
+use Ramsey\Uuid\Uuid;
 
 class RuleController extends BaseApi
 {
@@ -52,5 +53,56 @@ class RuleController extends BaseApi
             );
         }
         return $this->failNotFound('Data tidak ditemukan');
+    }
+
+    public function creates()
+    {
+        $items = $this->request->getJSON();
+        $data = [];
+        foreach ($items as $item) {
+            $data[] = [
+                'id' => Uuid::uuid4(),
+                'code' => $item->code,
+                'symptom_id' => $item->symptom_id,
+                'disease_id' => $item->disease_id
+            ];
+        }
+
+        foreach ($data as $key => $value) {
+            $this->validateCreate($value);
+        }
+
+        RuleModel::insert($data);
+        return $this->respond([
+            'messages' => [
+                'success' => 'Data berhasil disimpan',
+            ],
+        ]);
+    }
+
+    public function updates()
+    {
+        $items = $this->request->getJSON();
+        RuleModel::where('code', $items[0]->code)->delete();
+        $data = [];
+        foreach ($items as $item) {
+            $data[] = [
+                'id' => Uuid::uuid4(),
+                'code' => $item->code,
+                'symptom_id' => $item->symptom_id,
+                'disease_id' => $item->disease_id
+            ];
+        }
+
+        foreach ($data as $key => $value) {
+            $this->validateCreate($value);
+        }
+
+        RuleModel::insert($data);
+        return $this->respond([
+            'messages' => [
+                'success' => 'Data berhasil disimpan',
+            ],
+        ]);
     }
 }
